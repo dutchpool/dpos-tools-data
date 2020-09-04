@@ -33,50 +33,23 @@ pools:
     share: 80
   -
     delegate: dutch_pool
-    share: 90
+    share: 50
     website: http://shift.dutchpool.io
     payout:
       min: 0.1
       schedule: weekly
   -
     delegate: fnoufnou
-    share: 75
+    share: 0
     website: http://shift.dutchpool.io
-    upgrades:
-      -
-        name: 90% Reward
-        type: new_share
-        value: 90
-        requirements:
-          -
-            type: groupvote
-            value: dutch
   -
     delegate: kippers
-    share: 75
+    share: 0
     website: http://shift.dutchpool.io
-    upgrades:
-      -
-        name: 90% Reward
-        type: new_share
-        value: 90
-        requirements:
-          -
-            type: groupvote
-            value: dutch
   -
     delegate: st3v3n
-    share: 75
+    share: 0
     website: http://shift.dutchpool.io
-    upgrades:
-      -
-        name: 90% Reward
-        type: new_share
-        value: 90
-        requirements:
-          -
-            type: groupvote
-            value: dutch
   - 
     delegate: shiftadspool
     share: 80
@@ -93,17 +66,8 @@ pools:
         - 5263887536226471487S
   -
     delegate: thamar
-    share: 75
+    share: 0
     website: http://shift.dutchpool.io
-    upgrades:
-      -
-        name: 90% Reward
-        type: new_share
-        value: 90
-        requirements:
-          -
-            type: groupvote
-            value: dutch
   -
     delegate: get_shifty
     share: 75
