@@ -30,7 +30,7 @@ pools:
     website: https://terrabellus.studyshift.net
   -
     delegate: dwarf
-    share: 80
+    share: 50
   -
     delegate: dutch_pool
     share: 50
@@ -92,7 +92,7 @@ pools:
     share: 40
   -
     delegate: pnwdrew
-    share: 50
+    share: 25
     website: https://pnwdrew.shift.dpos-pool-info.com
   -
     delegate: shift_tools
@@ -117,7 +117,7 @@ pools:
     website: http://neuthor.site
   -
     delegate: carsonpool
-    share: 40
+    share: 25
     payout:
       min: 0.1
       schedule: weekly
@@ -139,7 +139,6 @@ pools:
   -
     delegate: samuel_paulsun
     share: 15
-
   -
     delegate: bawga
     share: 50
@@ -223,7 +222,7 @@ pools:
         - 1048643971821703875S
   -
     delegate: worldcoinpool
-    share: 40
+    share: 25
     website:
     payout:
       min: 0.1
@@ -245,7 +244,7 @@ pools:
         - 3388036311665030157S
   -
     delegate: trnp
-    share: 40
+    share: 25
     payout:
       addresses:
         - 17544330370515019029S
@@ -305,7 +304,7 @@ pools:
         - 18205181629852898627S
   -
     delegate: ghostfaceuk
-    share: 40
+    share: 25
     payout:
       addresses:
         - 16652174963610971575S
@@ -374,7 +373,7 @@ pools:
   -
     delegate: gregorst
     website: https://pool.gregorst.org/
-    share: 20
+    share: 25
     payout:
       schedule: weekly
       min: 0.1
@@ -390,7 +389,7 @@ pools:
         - 12573285556006580003S
   -
     delegate: simran_pool
-    share: 90
+    share: 40
     payout:
       schedule: weekly
       min: 0.1
@@ -398,6 +397,33 @@ pools:
     delegate: mrwhite
     share: 10
     website: http://shift.maxwell.co.at
+  -
+    delegate: bfx
+    share: 50
+  -
+    delegate: brad
+    share: 50
+  -
+    delegate: david_shniftyhoff
+    share: 35
+  -
+    delegate: fireshift
+    share: 50
+  -
+    delegate: honeyryder
+    share: 50
+  -
+    delegate: kushed.delegate
+    share: 50
+  -
+    delegate: prosper
+    share: 50
+  -
+    delegate: wazzu
+    share: 50
+  -
+    delegate: delegate_jones
+    share: 50
 
 
 promotedDelegates:
