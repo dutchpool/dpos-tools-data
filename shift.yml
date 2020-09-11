@@ -63,7 +63,7 @@ pools:
   -
     delegate: kushed.delegate
     share: 50
-      -
+  -
     delegate: moosty
     share: 25
   -
