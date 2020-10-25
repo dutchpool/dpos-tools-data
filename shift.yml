@@ -108,3 +108,6 @@ pools:
   -
     delegate: worldcoinpool
     share: 25
+  -
+    delegate: uranium
+    share: 30
