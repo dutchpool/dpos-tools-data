@@ -23,7 +23,7 @@ pools:
     share: 25
   -
     delegate: david_shniftyhoff
-    share: 35
+    share: 0
   -
     delegate: delegate_jones
     share: 50
@@ -100,6 +100,9 @@ pools:
     delegate: trnp
     share: 25
   -
+    delegate: uranium
+    share: 30
+  -
     delegate: vipertkd
     share: 20
   -
@@ -108,6 +111,3 @@ pools:
   -
     delegate: worldcoinpool
     share: 25
-  -
-    delegate: uranium
-    share: 30
