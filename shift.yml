@@ -14,7 +14,7 @@ pools:
     share: 20
   -
     delegate: bfx
-    share: 50
+    share: 25
   -
     delegate: brad
     share: 50
