@@ -58,6 +58,9 @@ pools:
     delegate: honeyryder
     share: 50
   -
+    delegate: jj
+    share: 50
+  -
     delegate: kanieloutis
     share: 50
   -
