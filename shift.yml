@@ -85,6 +85,9 @@ pools:
     delegate: samuel_paulsun
     share: 15
   -
+    delegate: shiftraider
+    share: 30
+  -
     delegate: shiftysailor
     share: 70
   -
