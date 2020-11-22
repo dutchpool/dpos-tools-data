@@ -100,9 +100,6 @@ pools:
     delegate: terrabellus
     share: 40
   -
-    delegate: tonyt908
-    share: 25
-  -
     delegate: trnp
     share: 25
   -
