@@ -10,6 +10,9 @@ hasGroups: true
 
 pools:
   -
+    delegate: alexa101
+    share: 30
+  -
     delegate: ampsicora
     share: 20
   -
@@ -73,7 +76,13 @@ pools:
     delegate: mrv
     share: 25
   -
+    delegate: oswin
+    share: 30
+  -
     delegate: peanhoy
+    share: 50
+  -
+    delegate: phyro
     share: 50
   -
     delegate: pnwdrew
@@ -105,6 +114,9 @@ pools:
   -
     delegate: uranium
     share: 30
+  -
+    delegate: victoria97
+    share: 40
   -
     delegate: vipertkd
     share: 20
