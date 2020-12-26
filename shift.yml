@@ -41,7 +41,7 @@ pools:
     share: 50
   -
     delegate: feather
-    share: 70
+    share: 50
   -
     delegate: fireshift
     share: 27
