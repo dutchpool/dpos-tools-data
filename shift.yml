@@ -44,7 +44,7 @@ pools:
     share: 50
   -
     delegate: fireshift
-    share: 27
+    share: 17
   -
     delegate: fitgirl
     share: 25
