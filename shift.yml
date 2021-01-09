@@ -40,6 +40,9 @@ pools:
     delegate: dwarf
     share: 50
   -
+    delegate: dwildcash
+    share: 40
+  -
     delegate: feather
     share: 50
   -
