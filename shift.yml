@@ -25,6 +25,12 @@ pools:
     delegate: carsonpool
     share: 25
   -
+    delegate: crowning.rose
+    share: 50
+  -
+    delegate: datascience
+    share: 60
+  -
     delegate: david_shniftyhoff
     share: 0
   -
@@ -67,6 +73,9 @@ pools:
     delegate: jj
     share: 50
   -
+    delegate: justice
+    share: 60
+  -
     delegate: kanieloutis
     share: 50
   -
@@ -94,8 +103,14 @@ pools:
     delegate: prosper
     share: 50
   -
+    delegate: saglor
+    share: 50
+  -
     delegate: samuel_paulsun
     share: 15
+  -
+    delegate: shift2btc
+    share: 30
   -
     delegate: shiftraider
     share: 30
@@ -108,6 +123,9 @@ pools:
   -
     delegate: stoner19
     share: 50
+  -
+    delegate: thering
+    share: 40
   -
     delegate: terrabellus
     share: 40
