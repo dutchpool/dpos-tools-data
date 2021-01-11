@@ -29,7 +29,7 @@ pools:
     share: 50
   -
     delegate: datascience
-    share: 60
+    share: 30
   -
     delegate: david_shniftyhoff
     share: 0
