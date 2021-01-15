@@ -56,7 +56,7 @@ pools:
     share: 17
   -
     delegate: fitgirl
-    share: 25
+    share: 20
   -
     delegate: ghostfaceuk
     share: 25
