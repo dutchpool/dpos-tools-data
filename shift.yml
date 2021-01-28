@@ -131,7 +131,7 @@ pools:
     share: 25
   -
     delegate: uranium
-    share: 30
+    share: 25
   -
     delegate: victoria97
     share: 40
