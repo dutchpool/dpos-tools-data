@@ -76,9 +76,6 @@ pools:
     delegate: justice
     share: 60
   -
-    delegate: kanieloutis
-    share: 50
-  -
     delegate: kushed.delegate
     share: 50
   -
