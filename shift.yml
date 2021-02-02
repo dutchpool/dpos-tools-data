@@ -71,7 +71,7 @@ pools:
     share: 50
   -
     delegate: justice
-    share: 60
+    share: 30
   -
     delegate: kushed.delegate
     share: 50
