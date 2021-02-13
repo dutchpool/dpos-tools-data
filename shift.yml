@@ -28,9 +28,6 @@ pools:
     delegate: crowning.rose
     share: 50
   -
-    delegate: datascience
-    share: 30
-  -
     delegate: david_shniftyhoff
     share: 0
   -
