@@ -128,7 +128,7 @@ pools:
     share: 25
   -
     delegate: victoria97
-    share: 40
+    share: 20
   -
     delegate: vipertkd
     share: 20
